@@ -20,7 +20,7 @@ hexo.extend.filter.register('after_generate', function (locals) {
       layout_index: config.layout.index ? config.layout.index : 0,
       loading: config.loading ? urlFor(config.loading) : "https://unpkg.zhimg.com/hexo-butterfly-clock/lib/loading.gif",
       clock_css: config.clock_css ? urlFor(config.clock_css) : "https://unpkg.zhimg.com/hexo-butterfly-clock/lib/clock.min.css",
-      clock_js: config.clock_js ? urlFor(config.clock_js) : "https://npm.elemecdn.com/hexo-butterfly-clock/lib/clock.min.js",
+      clock_js: config.clock_js ? urlFor(config.clock_js) : "https://npm.elemecdn.com/hexo-butterfly-clock-pro/lib/clock.min.js",
       ip_api: config.ip_api ? urlFor(config.ip_api) : "https://pv.sohu.com/cityjson?ie=utf-8"
     }
   // 渲染页面
