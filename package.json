@@ -1,0 +1,25 @@
+{
+  "name": "hexo-butterfly-clock-pro",
+  "version": "1.0.1",
+  "description": "A  clock plugin for theme-butterfly",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dongkcs/hexo-butterfly-clock-pro.git"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "dongkcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongkcs/hexo-butterfly-clock-pro/issues"
+  },
+  "homepage": "https://github.com/dongkcs/hexo-butterfly-clock-pro#readme"
+}
