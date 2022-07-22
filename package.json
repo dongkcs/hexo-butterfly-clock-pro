@@ -1,6 +1,6 @@
 {
   "name": "hexo-butterfly-clock-pro",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A  clock plugin for theme-butterfly",
   "main": "index.js",
   "directories": {
